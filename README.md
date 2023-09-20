@@ -1,3 +1,7 @@
+<img width="1434" alt="Screenshot 2023-09-21 at 1 52 26 AM" src="https://github.com/w5h10/wallet-highlighter-site/assets/145470330/2c711b45-0070-4d38-9ad3-1104ecc0440b">
+
+Visit [wallethighlighter.com](https://www.wallethighlighter.com/)
+
 <h1> <b>Wallet Highlighter: Your Guardian Against Crypto Cons and Frauds </b> </h1>
 
 🛡 Stay Shielded: Fend off those sneaky scams, frauds, and crypto tricksters with Wallet Highlighter.
